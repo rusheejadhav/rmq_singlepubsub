@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "33iz3hcXY8cZaRXsyY2vthvDsWgkPgq9QAZGarZAlvkvOuvRyVh/sGhDad4z7SHlWTOIGJvdhr2jB9nrDjnFTA==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\RabbitMQ_SinglePubSub\\RabbitMQ_Consumer\\RabbitMQ_Consumer\\RabbitMQ_Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RusheekeshJhadav\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RusheekeshJhadav\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\RusheekeshJhadav\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\RusheekeshJhadav\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\RusheekeshJhadav\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\RusheekeshJhadav\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\RusheekeshJhadav\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
